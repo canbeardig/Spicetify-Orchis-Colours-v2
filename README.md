@@ -5,6 +5,7 @@ A [Spicetify](https://github.com/khanhas/spicetify-cli) theme based on [Sleek th
 <br/>
 
 ## Screenshots
+### DarkGreen
 
 ![screenshot](screenshot.png)
 
@@ -12,7 +13,12 @@ A [Spicetify](https://github.com/khanhas/spicetify-cli) theme based on [Sleek th
 
 ![screenshot2](screenshot2.png)
 
+### DarkOrange
+![screenshot3](spotify-orange1.png)
 
+<br/>
+
+![screenshot3](spotify-orange2.png)
 ### Fonts
 
 Required fonts:
@@ -31,6 +37,12 @@ Download and install Fira font family from [Google Fonts](https://fonts.google.c
  
  ```spicetify config current_theme DarkGreen```
  
+ or
+
+ ```spicetify config current_theme DarkOrange```
+
+install :
+
  ```spicetify apply```
  
  
