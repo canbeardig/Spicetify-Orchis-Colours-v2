@@ -4,7 +4,13 @@ A [Spicetify](https://github.com/khanhas/spicetify-cli) theme based on [Sleek th
 
 <br/>
 
+## Screenshots
 
+![screenshot](screenshot.png)
+
+<br/>
+
+![screenshot2](screenshot2.png)
 
 ### Fonts
 
