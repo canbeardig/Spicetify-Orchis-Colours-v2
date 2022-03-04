@@ -12,6 +12,7 @@ A [Spicetify](https://github.com/khanhas/spicetify-cli) theme based on [Sleek th
 
 ![screenshot2](screenshot2.png)
 
+
 ### Fonts
 
 Required fonts:
